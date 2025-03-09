@@ -6,10 +6,7 @@ This is a **responsive Travel Landing Page** built using **HTML, CSS, and JavaSc
 ## 🚀 Features
 - 🏞 **Beautiful Hero Section** – Captivating images or video backgrounds.
 - 📌 **Responsive Navigation** – Smooth scrolling and a user-friendly menu.
-- ✈ **Destination Highlights** – Showcases popular destinations.
-- 🎟 **Booking Section** – Simple form for searching and booking trips.
 - ⭐ **Testimonials** – Customer reviews for credibility.
-- 🔥 **Call-to-Action Buttons** – Engaging buttons like *"Explore More"* and *"Book Now"*.
 - 🎨 **Fully Responsive Design** – Works on all devices.
 
 ## 🛠️ Technologies Used
@@ -18,7 +15,8 @@ This is a **responsive Travel Landing Page** built using **HTML, CSS, and JavaSc
 - **JavaScript** – Interactive elements like sliders and form validation.
 
 ## 📸 Screenshots
-(Include some screenshots of your travel landing page here)
+![image](https://github.com/user-attachments/assets/ee26ebc7-c43e-41d4-b579-61bbec21b003)
+
 
 ## 📦 Installation
 1. Clone the repository:
@@ -33,7 +31,6 @@ This is a **responsive Travel Landing Page** built using **HTML, CSS, and JavaSc
 
 ## 🎯 Usage
 - Click on **Destinations** to explore different places.
-- Fill in the **Booking Form** to search for travel packages.
 - Navigate through the sections using the **Navbar**.
 
 ## 🏗️ Future Enhancements
@@ -45,7 +42,7 @@ This is a **responsive Travel Landing Page** built using **HTML, CSS, and JavaSc
 Feel free to fork this repository and submit pull requests.
 
 ## 📩 Contact
-For any queries, reach out at [your.email@example.com](mailto:your.email@example.com)
+For any queries, reach out at [your.email@example.com](mailto:gow636333@gmail.com)
 
 ---
 **🌟 If you like this project, give it a star ⭐ on GitHub!**
